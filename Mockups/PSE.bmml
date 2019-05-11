@@ -10,7 +10,8 @@
       <controlProperties>
         <resizing>stretch</resizing>
       </controlProperties>
-    </control>
+    </control> 
+	
     <control controlID="83" controlTypeID="com.balsamiq.mockups::FieldSet" x="142" y="134" w="318" h="114" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Header</text>
